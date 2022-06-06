@@ -1,0 +1,10 @@
+{
+  "name": "FovSlider",
+  "version": "1.0",
+  "description": "Move your FOV beyond the intent of the game.",
+  "url": "https://github.com/toxicaven/fovslider",
+  "authors": [ "ToxicAven" ],
+  "main_class": "dev.toxicaven.FovSliderPlugin",
+  "min_api_version": "3.0",
+  "required_plugins": []
+}
